@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RMAProjekat1</string>
+
+    <string name="app_delete_confirmation_dismiss">Dismiss</string>
+    <string name="app_delete_confirmation_yes">Delete</string>
+
+    <string name="editor_title">Password Editor</string>
+    <string name="editor_menu_item_share">Share</string>
+    <string name="editor_menu_item_delete">Delete</string>
+
+    <string name="editor_delete_confirmation_title">Warning</string>
+    <string name="editor_delete_confirmation_text">You are about to delete your password for %1$s. This action can not be undone.</string>
+    <string name="editor_delete_confirmation_simple_text">You are about to delete password. This action can not be undone.</string>
+    <string name="editor_button_update">Update</string>
+    <string name="editor_button_insert">Insert</string>
+    <string name="editor_button_cancel">Cancel</string>
+
+    <string name="albums_delete_album_confirmation_text">You are about to delete album. This action can not be undone.</string>
+    <string name="albums_delete_user_confirmation_text">You are about to delete user. This action can not be undone.</string>
+
+</resources>
